@@ -1,11 +1,11 @@
-## Welcome to TAKE A STAND
+## Welcome to Shah's Blog
 
-You can check out our group project on this platform.
+You can check out my projects on this platform.
 
 
-### Project TAS
+### Project Alarm99
 
-Project TAS is an interactive disposal .
+Project Alarm99 is an alarm system .
 
 
 
